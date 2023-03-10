@@ -1,28 +1,28 @@
 # Python_Projects
 
+This repository contains some various interesting Python-projects using the python programming language.Trying to work on Python projects would definitely uplift your skills and build up your profile to face the competitive world outside. I am learning Python, and in this repository, I have uploaded the code of some of the simple projects :thinking: I made during this time.
 
-This repository contains some various interesting Python-projects using the python programming language.Trying to work on Python projects would definitely uplift your skills and build up your profile to face the competitive world outside.I am learning  Python. And in this repository, I upload the code of some of the simple projects :thinking: I made during this time.
-In this projects there are 3 games 
 1. Guess_The_Number
 2. Rock_Paper_Sessisors
 3. hangman
+4. Acronyms Generator from a string
+5. Amazon Prize tracker
+6. Youtube Playlist Downloader
 
 </p> 
 <p align="center"><img src="https://img.shields.io/badge/Author-31Sanskrati-green.svg"> 
 </p>
 
-
 ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
 
 # Are you excited to contribute to Python Projects  😍
-
 
 ## How to contribute 😎<br>Steps To Follow
 - Select or create an issue and ask to be *assigned* to it.
 - Check existing scripts.
 - **Star** the repository.
 - On the GitHub page for this repository, click on the Button "**Fork**".
-- Create clone ***your forked repository*** on your local machine.
+- Clone ***your forked repository*** on your local machine.
 
     For example, run this command inside your terminal:
 
@@ -36,10 +36,9 @@ In this projects there are 3 games
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git clone https://github.com/31Sanskrati/Python_Projects.git
     git fetch upstream
-    git pull upstream master
-    git push
+    git checkout main
+    git merge upstream/main
     ```
 
 - If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
@@ -70,4 +69,3 @@ In this projects there are 3 games
 Not finished yet.
 
 <h2><p align= "center">THANK YOU FOR YOUR CONTRIBUTIONS. 💫</p></h2>
-
