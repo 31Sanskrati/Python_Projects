@@ -34,7 +34,7 @@ Welcome to the Python Playground! This repository contains a collection of Pytho
 - Don't forget to add a `README.md` in your folder, according to the [README_TEMPLATE](https://github.com/Mayank94043626/python-projects-open-source/blob/master/README_TEMPLATE.md).
 - Add your project name and link to the README.md file of the repository. For e.g
 ```
-5. [your-project-folder-name](https://github.com/31Sanskrati/Python_Projects/blob/main/<your-project-folder-name>)
+5. [your-project-folder-name](https://github.com/31Sanskrati/Python_Projects/tree/main/<your-project-folder-name>)
 ```
 - Go to the GitHub page of _your fork_, and **make a pull request**:
 - Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification.
