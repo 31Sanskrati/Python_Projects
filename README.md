@@ -1,11 +1,18 @@
-# Python_Projects
+# Python Projects Playground
 
+> Put On Your Python Hat and Get Ready to Rock!
 
-This repository contains some various interesting Python-projects using the python programming language.Trying to work on Python projects would definitely uplift your skills and build up your profile to face the competitive world outside.I am learning  Python. And in this repository, I upload the code of some of the simple projects :thinking: I made during this time.
-In this projects there are 3 games 
-1. Guess_The_Number
-2. Rock_Paper_Sessisors
-3. hangman
+Welcome to the Python Playground! This repository contains a collection of Python projects and scripts for you to explore and experiment with. Each project has its own folder, and you can dive in and start coding right away. Some projects are beginner-friendly, while others are more advanced and challenging. I am a Python learner and this is the playground created by me and various other awesome people.
+
+## Projects Locator
+> Python Shenanigans: A Tour of the Python Playground
+1. [Acronyms](https://github.com/31Sanskrati/Python_Projects/tree/main/Acronyms)
+2. [Amazon Proce Tracker](https://github.com/31Sanskrati/Python_Projects/tree/main/Amazon_Price_Tracker)
+3. [Hangman](https://github.com/31Sanskrati/Python_Projects/tree/main/Hangman)
+4. [Guess_The_Number](https://github.com/31Sanskrati/Python_Projects/blob/main/Guess_the_number.py)
+5. [Madlabs](https://github.com/31Sanskrati/Python_Projects/blob/main/Madlabs.py)
+6. [Rock_Paper_Sessisors](https://github.com/31Sanskrati/Python_Projects/blob/main/rock_paper_sessiors.py)
+
 
 </p> 
 <p align="center"><img src="https://img.shields.io/badge/Author-31Sanskrati-green.svg"> 
@@ -16,58 +23,35 @@ In this projects there are 3 games
 
 # Are you excited to contribute to Python Projects  😍
 
+> Join the Python Party - Bring Your Own Snacks and Code!
 
 ## How to contribute 😎<br>Steps To Follow
 - Select or create an issue and ask to be *assigned* to it.
 - Check existing scripts.
 - **Star** the repository.
 - On the GitHub page for this repository, click on the Button "**Fork**".
-- Create clone ***your forked repository*** on your local machine.
-
-    For example, run this command inside your terminal:
-
-    ```bash
-    git clone https://github.com/<your-github-username>/python_projects.git
-    ```
-
-    **Replace \<your-github-username\>!**
-
-    Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
-- Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
-
-    ```bash
-    git clone https://github.com/31Sanskrati/Python_Projects.git
-    git fetch upstream
-    git pull upstream master
-    git push
-    ```
-
-- If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
-
-- Create a folder in according to issue name.
-- Write your code and add to the respective folder in the projects directory, locally.
-- Don't forget to add a `README.md` in your folder, according to the [README_TEMPLATE.](https://github.com/Mayank94043626/python-projects-open-source/blob/master/README_TEMPLATE.md)
-- Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
-
-    ```bash
-    git add -A
-    git commit -m "<your message>"
-    ```
-
-- Push the code *to your repository*.
-
-    ```bash
-    git push origin <branch-name>
-    ```
-
+- Clone the forked repository or directly use the github dashboard for making changes.
+- Create the folder with desired project name, add, write or upload your code in that folder.
+- Don't forget to add a `README.md` in your folder, according to the [README_TEMPLATE](https://github.com/Mayank94043626/python-projects-open-source/blob/master/README_TEMPLATE.md).
+- Add your project name and link to the README.md file of the repository. For e.g
+```
+5. [your-project-folder-name](https://github.com/31Sanskrati/Python_Projects/blob/main/<your-project-folder-name>)
+```
 - Go to the GitHub page of _your fork_, and **make a pull request**:
-
-
-    Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 - Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification.
 
-## Repositiory Status
-Not finished yet.
+    Read more about contributing on [GitHub help pages](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+
+## License
+> Python Wizards Are Not Responsible for Any Unintended Consequences of Using This Repository
+[MIT Licence](https://github.com/31Sanskrati/Python_Projects/blob/main/LICENCE)
+
+## Credits
+> Python Gurus and Wizards: Who Made This Repository Possible
+
+<a href = "https://github.com/31Sanskrati/Python_Projects/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=31Sanskrati/Python_Projects"/>
+</a>
 
 <h2><p align= "center">THANK YOU FOR YOUR CONTRIBUTIONS. 💫</p></h2>
 
