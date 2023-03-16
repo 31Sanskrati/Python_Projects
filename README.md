@@ -9,10 +9,10 @@ Welcome to the Python Playground! This repository contains a collection of Pytho
 1. [Acronyms](https://github.com/31Sanskrati/Python_Projects/tree/main/Acronyms)
 2. [Amazon Proce Tracker](https://github.com/31Sanskrati/Python_Projects/tree/main/Amazon_Price_Tracker)
 3. [Hangman](https://github.com/31Sanskrati/Python_Projects/tree/main/Hangman)
-4. [Guess_The_Number](https://github.com/31Sanskrati/Python_Projects/blob/main/Guess_the_number)
-5. [Madlabs](https://github.com/31Sanskrati/Python_Projects/blob/main/Madlabs)
-6. [Rock_Paper_Sessisors](https://github.com/31Sanskrati/Python_Projects/blob/main/rock_paper_sessiors)
-7. [Youtube Playlist Downloader](https://github.com/31Sanskrati/Python_Projects/blob/main/yt_playlist_downloader/ytpl)
+4. [Guess_The_Number](https://github.com/31Sanskrati/Python_Projects/tree/main/guess_the_number)
+5. [Madlabs](https://github.com/31Sanskrati/Python_Projects/tree/main/madlabs)
+6. [Rock_Paper_Sessisors](https://github.com/31Sanskrati/Python_Projects/tree/main/rock_paper_scissors)
+7. [Youtube Playlist Downloader](https://github.com/31Sanskrati/Python_Projects/tree/main/yt_playlist_downloader)
 
 </p> 
 <p align="center"><img src="https://img.shields.io/badge/Author-31Sanskrati-green.svg"> 
