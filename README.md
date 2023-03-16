@@ -13,11 +13,9 @@ Welcome to the Python Playground! This repository contains a collection of Pytho
 5. [Madlabs](https://github.com/31Sanskrati/Python_Projects/blob/main/Madlabs.py)
 6. [Rock_Paper_Sessisors](https://github.com/31Sanskrati/Python_Projects/blob/main/rock_paper_sessiors.py)
 
-
 </p> 
 <p align="center"><img src="https://img.shields.io/badge/Author-31Sanskrati-green.svg"> 
 </p>
-
 
 ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
 
@@ -54,4 +52,3 @@ Welcome to the Python Playground! This repository contains a collection of Pytho
 </a>
 
 <h2><p align= "center">THANK YOU FOR YOUR CONTRIBUTIONS. 💫</p></h2>
-
